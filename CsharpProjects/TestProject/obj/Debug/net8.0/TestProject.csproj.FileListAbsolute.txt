@@ -1,0 +1,14 @@
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/uzairyousaf/C#/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
